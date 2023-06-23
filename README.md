@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js and Tailwind**
 
-- 👯 I’m looking to collaborate on **a web developer**
+- 👯 I’m looking to collaborate on<a href="https://cosmic-praline-9c9c40.netlify.app/"> **a web developer**</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalousius/](https://github.com/kalousius/)
 
